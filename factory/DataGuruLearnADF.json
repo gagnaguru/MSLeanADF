@@ -1,0 +1,9 @@
+{
+	"name": "DataGuruLearnADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1ea09ec7-ffc2-496f-bd2b-89015d4ea892",
+		"tenantId": "1d987bee-6535-478a-a333-f247b338ac3e"
+	}
+}
